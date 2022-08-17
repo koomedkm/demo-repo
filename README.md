@@ -1,3 +1,3 @@
 # demo
 
-description of the samo
+description of what is contained
